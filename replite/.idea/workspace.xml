@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="879485de-572b-412c-ae63-bd89860d1d90" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aqeB4Byn5JS47fjawrhAk76nBh" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.spider_food">
+    <configuration name="chrome_no_header" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="replite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/taobao_food" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/taobao_food/chrome_no_header.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="replite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/toutiao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/toutiao/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider_food" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="replite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/taobao_food" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/taobao_food/spider_food.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="replite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/maoyan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maoyan/spider_my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="replite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/taobao_food" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/taobao_food/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spider_food" />
+        <item itemvalue="Python.chrome_no_header" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.spider_my" />
+        <item itemvalue="Python.spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="879485de-572b-412c-ae63-bd89860d1d90" name="默认更改列表" comment="" />
+      <created>1587467412446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587467412446</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="182" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590051083196">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state x="462" y="182" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.699@0.23.1280.699" timestamp="1590051083196" />
+    <state width="1260" height="86" key="GridCell.Tab.0.bottom" timestamp="1589197454799">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state width="1260" height="86" key="GridCell.Tab.0.bottom/0.23.1280.699@0.23.1280.699" timestamp="1589197454799" />
+    <state width="1218" height="114" key="GridCell.Tab.0.bottom/0.23.1280.702@0.23.1280.702" timestamp="1587638705049" />
+    <state width="1260" height="86" key="GridCell.Tab.0.center" timestamp="1589197454798">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state width="1260" height="86" key="GridCell.Tab.0.center/0.23.1280.699@0.23.1280.699" timestamp="1589197454798" />
+    <state width="1218" height="114" key="GridCell.Tab.0.center/0.23.1280.702@0.23.1280.702" timestamp="1587638705049" />
+    <state width="1260" height="86" key="GridCell.Tab.0.left" timestamp="1589197454798">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state width="1260" height="86" key="GridCell.Tab.0.left/0.23.1280.699@0.23.1280.699" timestamp="1589197454798" />
+    <state width="1218" height="114" key="GridCell.Tab.0.left/0.23.1280.702@0.23.1280.702" timestamp="1587638705049" />
+    <state width="1260" height="86" key="GridCell.Tab.0.right" timestamp="1589197454799">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state width="1260" height="86" key="GridCell.Tab.0.right/0.23.1280.699@0.23.1280.699" timestamp="1589197454799" />
+    <state width="1218" height="114" key="GridCell.Tab.0.right/0.23.1280.702@0.23.1280.702" timestamp="1587638705049" />
+    <state width="1260" height="184" key="GridCell.Tab.1.bottom" timestamp="1588688263082">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state width="1260" height="184" key="GridCell.Tab.1.bottom/0.23.1280.699@0.23.1280.699" timestamp="1588688263082" />
+    <state width="1260" height="184" key="GridCell.Tab.1.center" timestamp="1588688263081">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state width="1260" height="184" key="GridCell.Tab.1.center/0.23.1280.699@0.23.1280.699" timestamp="1588688263081" />
+    <state width="1260" height="184" key="GridCell.Tab.1.left" timestamp="1588688263081">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state width="1260" height="184" key="GridCell.Tab.1.left/0.23.1280.699@0.23.1280.699" timestamp="1588688263081" />
+    <state width="1260" height="184" key="GridCell.Tab.1.right" timestamp="1588688263082">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state width="1260" height="184" key="GridCell.Tab.1.right/0.23.1280.699@0.23.1280.699" timestamp="1588688263082" />
+    <state x="118" y="23" width="997" height="702" key="SettingsEditor" timestamp="1588342263425">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state x="118" y="23" key="SettingsEditor/0.23.1280.699@0.23.1280.699" timestamp="1588342263425" />
+    <state x="118" y="23" width="997" height="702" key="SettingsEditor/0.23.1280.702@0.23.1280.702" timestamp="1587546492303" />
+    <state x="7" y="76" key="new project wizard" timestamp="1589538932052">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state x="7" y="76" key="new project wizard/0.23.1280.699@0.23.1280.699" timestamp="1589538932052" />
+    <state x="295" y="49" width="670" height="674" key="search.everywhere.popup" timestamp="1588417182759">
+      <screen x="0" y="23" width="1280" height="699" />
+    </state>
+    <state x="295" y="49" width="670" height="674" key="search.everywhere.popup/0.23.1280.699@0.23.1280.699" timestamp="1588417182759" />
+    <state x="295" y="49" width="670" height="676" key="search.everywhere.popup/0.23.1280.702@0.23.1280.702" timestamp="1587546044771" />
+  </component>
+</project>
